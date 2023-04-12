@@ -1,8 +1,14 @@
 # demo-rsa-mds
 
-Demo: create a 2-D MDS plot for an RSA matrix.
+Simple Demo: create a 2-D MDS plot for an RSA matrix.
 
-`conda env create -f environment.yml`<br />
-`conda activate rsa-mds-plot`<br />
-`conda install jupyter`<br />
-`jupyter notebook`<br />
+
+git clone this repo and cd to that directory
+then, run the following command from the terminal
+
+```
+conda env create -f environment.yml
+conda activate rsa-mds-plot
+conda install jupyter
+jupyter notebook
+```
