@@ -1,6 +1,4 @@
-# demo-rsa-mds
-
-Simple Demo: create a 2-D MDS plot for an RSA matrix.
+# Simple Demo: create a 2-D MDS plot for an RSA matrix.
 
 
 git clone this repo <br/>
